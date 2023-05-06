@@ -1,1 +1,1 @@
-# journal
+# personal cli journal app
